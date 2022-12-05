@@ -12,8 +12,8 @@ Entender a relação entre depressão e hábitos saudáveis.
   - Combinar os 2 bancos de dados.
 - Análise exploratória univariada.
   - Entender as variáveis.
-- Análise exploratória bi-variada.
-  - levantar as hipóteses.
+- Análise exploratória bivariada.
+  - Levantar as hipóteses.
 - Teste de hipóteses.
 - Perguntas TERA.
 
@@ -21,7 +21,7 @@ Entender a relação entre depressão e hábitos saudáveis.
 
 ### National Health and Nutrition Examination Survey (NHANES).
 - É uma pesquisa anual para avaliar a saúde e nutrição de adultos e crianças nos EUA.
-- Possui dados demográficos, socioeconômicos, dietétivos, de saúde e exames.
+- Possui dados demográficos, socioeconômicos, dietéticos, de saúde e exames.
 - São entrevistados 5 mil pessoas por anos, uma amostragem complexa, da população civil não institucionalizada dos EUA, mas que para este desafio vamos assumir que seja uma amostragem aleatória
 
 ### Patient Health Questionnaire-9 (PHQ-9).
@@ -55,9 +55,9 @@ Entender a relação entre depressão e hábitos saudáveis.
 - O índice é composto por 13 componentes.
 
 ### Physical Activity Guidelines for Americans (PAGA).
-- É emitido pelo Departamento de Saúde e Serviços Humanos e possue recomendações de atividades físicas.
+- É emitido pelo Departamento de Saúde e Serviços Humanos e possui recomendações de atividades físicas.
 - Utilizado em conjunto com as orientações dietéticas.
-- Recomendação de 150 minutos de ativdades aeróbicas moderadas semanalmente ou 75 minuyos de atividades aeróbicas vigorosas semanalmente.
+- Recomendação de 150 minutos de atividades aeróbicas moderadas semanalmente ou 75 minutos de atividades aeróbicas vigorosas semanalmente.
 
 Portanto nossas fontes de dados são:
 - NHANES: saúde e nutrição de adultos.
